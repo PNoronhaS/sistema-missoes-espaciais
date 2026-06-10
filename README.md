@@ -58,4 +58,4 @@ Se o nome for diferente (ex.: `missão001` ou `Missao 001` sem acento), os dados
 
 ## 🎥 Demonstração em Vídeo
 Assista à demonstração completa do sistema:  
-[Vídeo da entrega]([https://youtu.be/SEU-LINK-AQUI](https://youtube.com/shorts/V_XyZSafeaw?si=TbdG7joI7bg2bTl8))
+[Vídeo da entrega] [https://youtu.be/SEU-LINK-AQUI](https://youtube.com/shorts/V_XyZSafeaw?si=TbdG7joI7bg2bTl8)
