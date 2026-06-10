@@ -21,6 +21,7 @@ A solução simula dados críticos e gera alertas automáticos, dentro do contex
 ## Vídeo do App
 
 https://youtube.com/shorts/V_XyZSafeaw?si=TbdG7joI7bg2bTl8
+
 ---
 
 ## ✅ Funcionalidades
