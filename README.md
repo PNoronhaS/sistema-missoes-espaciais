@@ -18,27 +18,9 @@ Permite cadastrar missões, selecionar a ativa e acompanhar dashboards de **Sens
 A solução simula dados críticos e gera alertas automáticos, dentro do contexto de *Space Predictive Analytics*.
 
 ---
+## Vídeo do App
 
-## 📲 Telas do Aplicativo
-
-### Home — Seleção de Missão
-![Home](./assets/screenshots/home.png)
-
-### Dashboard de Sensores
-![Sensores](./assets/screenshots/sensores.png)
-
-### Dashboard de Energia
-![Energia](./assets/screenshots/energia.png)
-
-### Dashboard de Comunicação
-![Comunicação](./assets/screenshots/comunicacao.png)
-
-### Alertas
-![Alertas](./assets/screenshots/alertas.png)
-
-### Configurações / Cadastro
-![Configurações](./assets/screenshots/configuracoes.png)
-
+https://youtube.com/shorts/V_XyZSafeaw?si=TbdG7joI7bg2bTl8
 ---
 
 ## ✅ Funcionalidades
